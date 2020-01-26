@@ -1,0 +1,8 @@
+name: RPG-Tools-n-Weapons
+version: 0.1
+main: com.alant7_.toolsandweapons.Main
+api-version: 1.15
+permissions:
+  rpgtoolsandweapons.admin:
+    default: false
+    description: Permission for using admin commands
